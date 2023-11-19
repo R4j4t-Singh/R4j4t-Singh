@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Web2 and Web3 developer.
+Blockchain and Devops enthusiast.
 
 
 ## 🌐 Socials:
