@@ -1,5 +1,5 @@
 # 💫 About Me:
-Blockchain and Devops enthusiast.
+A Software Developer
 
 
 ## 🌐 Socials:
